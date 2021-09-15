@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">twillioVideoCallingApp</string>
+
+
+    <string name="accesstoken">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImN0eSI6InR3aWxpby1mcGE7dj0xIn0.eyJqdGkiOiJTSzRhMmZjMWU2OWYwZDI5Mzc0MGI0ZmZiN2RjNmZkNzU5LTE2MzE2OTU1NjIiLCJncmFudHMiOnsiaWRlbnRpdHkiOiJhcnVuIiwidmlkZW8iOnt9fSwiaWF0IjoxNjMxNjk1NTYyLCJleHAiOjE2MzE2OTkxNjIsImlzcyI6IlNLNGEyZmMxZTY5ZjBkMjkzNzQwYjRmZmI3ZGM2ZmQ3NTkiLCJzdWIiOiJBQzMwMjkzYmFhYjc4ZDE2YzVjOGMzYjRmOTgwNzJkOTIxIn0.Ap_Kw9A5MWlTxG6XT4Wh54OJAaw3UleAsL2Jq--q7xk</string>
+</resources>
